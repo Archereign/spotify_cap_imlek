@@ -7,7 +7,7 @@
 - Channel resmi [MaterIsACars](https://t.me/MaterIsCar) sudah bukan milik saya ([MaterACars](https://t.me/MaterACars)) lagi, jadi jika Anda ingin bergabung dengan channel telegram, silakan bergabung dengan [@chsangkara](https://t.me/chsangkara), terima kasih.
 
 ## Featured
-- Create Account with bypass Captcha with CapSolver
+- Create Account with bypass Captcha using CapSolver
 
 ## Instalasi
 1. Pastikan Anda memiliki Python 3.12 atau versi yang lebih tinggi terinstal. Jika belum, silakan unduh dan instal Python dari [situs web resmi Python](https://www.python.org/downloads/).
